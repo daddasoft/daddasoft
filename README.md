@@ -54,5 +54,5 @@
 
 ---------
 ## Support Me 
-
-<a href="https://www.buymeacoffee.com/daddasoft" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+| <a href="https://www.buymeacoffee.com/daddasoft" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a> | <a href="https://www.patreon.com/daddasoft" target="_blank"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a> |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
