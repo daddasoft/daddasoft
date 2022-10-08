@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Anything Related to programming**
 
-- 📫 How to reach me **hichamdaddacontact@gmail.com**
+- 📫 How to reach me **contact@daddasoft.com**
 
 - 😄 Pronouns: daddasoft
 - ⚡ Fun fact: I Love Programming & Computers
