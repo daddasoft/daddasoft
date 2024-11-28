@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Ecommerce Platform](https://daddasoft.com)
 
-- 🌱 I’m currently learning **Web 3**
+- 🌱 I’m currently learning **AWS Cloud Computing + Liecence Pro (FullStack+DevOps)**
 
 - 💬 Ask me about **Anything Related to programming**
 
